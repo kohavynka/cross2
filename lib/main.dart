@@ -19,7 +19,7 @@ class CornerRadiusScreen extends StatefulWidget {
 }
 
 class _CornerRadiusScreenState extends State<CornerRadiusScreen> {
-  // Початкові значення радіусів для кожного з кутів
+  
   double topLeftRadius = 0;
   double topRightRadius = 0;
   double bottomLeftRadius = 0;
